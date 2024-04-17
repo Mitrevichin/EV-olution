@@ -4,7 +4,7 @@ function Navbar() {
     return (
         <div className='nav'>
             <div className='nav-logo'>EV-olution</div>
-            <ul>
+            <ul className='nav-menu'>
                 <li>Home</li>
                 <li>Еxplore</li>
                 <li>About</li>
